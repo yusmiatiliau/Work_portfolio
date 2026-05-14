@@ -1,0 +1,28 @@
+---
+title: "Research Focus"
+format: html
+---
+
+My lifelong scientific interest lies in understanding how **chromosomes behave and change** — and how such behavior influences genetic expression and heredity.
+
+## Cytogenetics of Maize
+
+Working with *Zea mays*, I developed techniques to visualize chromosomes under the microscope.\
+These methods enabled me to:\
+- Demonstrate **crossing-over** during meiosis.\
+- Identify the roles of **telomeres** and **centromeres** in maintaining chromosome stability.\
+- Track structural rearrangements in chromosomes across generations.
+
+## Discovery of Transposable Elements
+
+In the 1940s and 1950s, I discovered **“jumping genes”**, or **transposons** — mobile genetic elements that can change their position within the genome.\
+This finding revealed that the genome is **not static**, but instead **dynamic and responsive** to its environment.
+
+## Later Research and Broader Impact
+
+My later work extended into the **cytogenetics and ethnobotany of South American maize races**, integrating field studies with laboratory cytology.\
+These findings helped connect genetic variability with the evolutionary adaptation of maize to local environments.
+
+------------------------------------------------------------------------
+
+> “A feeling for the organism” — understanding life by working with it patiently, respectfully, and without preconception — remains the heart of my approach to science.

@@ -1,0 +1,23 @@
+---
+title: "Barbara McClintock"
+format: html
+---
+
+
+# Welcome to My Research Portfolio
+
+![Barbara McClintock (1902-1992), Department of Genetics, Carnegie Institution at Cold Spring Harbor, New York, shown in her laboratory. [Photo: From the  Smithsonian Institution Archives, Accession 90-105, Science Service Records, Image No. SIA2008-5609](http://siarchives.si.edu/collections/siris_arc_306310)](images/barbaramcclintock.jpg){width=80%}
+
+|[figure name](images/filename.jpg)
+
+Hello, I’m **Barbara McClintock**, an American cytogeneticist fascinated by the dynamic nature of the genome.  
+My work with **maize chromosomes** led to the discovery of genetic recombination, chromosome breakage, and eventually, **transposable elements** — genes that can move within the genome.
+
+I completed my PhD in Botany at **Cornell University** in 1927, and spent much of my career exploring how chromosomes behave and control genetic expression in maize.  
+In 1983, I was awarded the **Nobel Prize in Physiology or Medicine** for the discovery of genetic transposition.
+
+This site serves as a portfolio of my research, publications, and ongoing scientific interests.
+
+---
+
+> “If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off.”

@@ -1,0 +1,29 @@
+---
+title: "Research Portfolio"
+format: html
+---
+
+Below is a curated selection of my key scientific works and contributions to genetics.
+
+## 📚 Selected Publications
+
+- McClintock, B. (1939). *The Behavior in Successive Nuclear Divisions of a Chromosome Broken at Meiosis*. *PNAS*, **25** (8) 405-416. [doi.org/10.1073/pnas.25.8.40](https://doi.org/10.1073/pnas.25.8.40).\
+- McClintock, B. (1941). *The Stability of Broken Ends of Chromosomes in Zea Mays*. *Genetics*, **26** (2) 234-282. [doi.org/10.1093/genetics/26.2.234](https://doi.org/10.1093/genetics/26.2.234).\
+- McClintock, B. (1950). *The origin and behavior of mutable loci in maize*. *PNAS*, **36** (6) 344-355. [doi.org/10.1073/pnas.36.6.344](https://doi.org/10.1073/pnas.36.6.344).
+
+## 🏆 Nobel Lecture
+
+- Nobel Lecture (1983): [The Significance of Responses of the Genome to Challenge](https://www.nobelprize.org/prizes/medicine/1983/mcclintock/lecture/)
+
+## 🔬 Data and Resources
+
+- [Cold Spring Harbor Laboratory — Barbara McClintock Collection](https://www.cshl.edu/personal-collections/barbara-mcclintock/)
+
+## 🗞️ Media
+
+- [Nobel Prize Stories: Women who changed science](https://www.nobelprize.org/stories/women-who-changed-science/barbara-mcclintock/)
+
+## 🌐 Professional Links
+
+- [National Academy of Sciences Biography](https://www.nasonline.org/directory-entry/barbara-mcclintock-x3z8mp/)
+- [GitHub](https://github.com/chloevdb/work-portfolio-barbara-mcclintock)
